@@ -1,0 +1,35 @@
+footer{
+    height: 150px;
+    background: #666;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+}
+
+.h4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-right: auto;
+    margin-left: 15px;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+    margin-left: -200px;
+}
+
+span a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #fff;
+    font-weight: 700;
+}
+
+span a:hover{
+    color: #000;
+}
